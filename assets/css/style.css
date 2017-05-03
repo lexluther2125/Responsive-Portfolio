@@ -374,28 +374,26 @@ margin: 0px;
 
 header {
 	width: 200%;
+	height: 125px;
 }
 
 #header_name_text_block {
 width: 125%;
-height: 90px;
+height: 50%;
 margin: 0px;
 }
 
 nav {
-height: 25px;
-width: 500px;
-text-align: center;
-   padding: 2px;
-   align-items:center;
-
+height: 50px;
+width: 100%;
+max-width: 472px;
 }
 
 .nav_link {
 width: 33.3%;
-margin: 5px auto;
+height: 38px;
+margin-top: 25px;
 padding: 0;
-align-items:center;
 text-align: center;
 }
 
